@@ -35,17 +35,17 @@ Selecione a opção desejada para gerenciar suas tarefas.
 ### Instalação
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/gerenciador-tarefas.git
+   git clone https://github.com/seuusuario/gerenciador-de-tarefas.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd gerenciador-tarefas
+   cd gerenciador-de-tarefas
    ```
 
 ### Execução
 1. Execute o programa:
    ```bash
-   python gerenciador_tarefas.py
+   python gerenciador.py
    ```
 2. Siga as instruções no menu para gerenciar suas tarefas.
 
